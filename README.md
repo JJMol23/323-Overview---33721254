@@ -10,6 +10,7 @@
 
 # Diagram
 
+![Capture](https://user-images.githubusercontent.com/92015974/185420915-a69112d2-b02f-47e9-9e36-e02ac406d650.PNG)
 
 
 # Branching Strategy
